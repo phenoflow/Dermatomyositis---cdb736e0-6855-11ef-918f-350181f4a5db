@@ -1,0 +1,33 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/dermatomyositis---secondary.py
+inputModule3:
+  class: File
+  path: python/dermatomyositis-involvement---secondary.py
+inputModule4:
+  class: File
+  path: python/dermatomyositis-childhood---secondary.py
+inputModule5:
+  class: File
+  path: python/sclerodermatomyositis---secondary.py
+inputModule6:
+  class: File
+  path: python/idiopathic-dermatomyositis---secondary.py
+inputModule7:
+  class: File
+  path: python/dermatomyositis-onset---secondary.py
+inputModule8:
+  class: File
+  path: python/poikilodermatomyositis---secondary.py
+inputModule9:
+  class: File
+  path: python/dermatomyositis-malignant---secondary.py
+inputModule10:
+  class: File
+  path: python/output-cases.py
